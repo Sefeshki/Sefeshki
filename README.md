@@ -15,10 +15,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sefeshki&show_icons=true&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=a855f7&text_color=d1d5db&hide_title=true"/>
-
-<br/><br/>
-
 <sub>𓆩 ROOT 𓆪</sub>
 
 </div>
