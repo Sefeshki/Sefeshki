@@ -10,7 +10,7 @@
 
 <a href="https://github.com/Sefeshki"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=bf7aff"/></a>
 <a href="https://github.com/Sefeshki"><img src="https://img.shields.io/badge/CS2-111111?style=for-the-badge&logo=counterstrike&logoColor=bf7aff"/></a>
-<a href="https://github.com/Sefeshki"><img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=bf7aff"/></a>
+<a href="https://archlinux.org/"><img src="https://img.shields.io/badge/I%20use%20Arch%20BTW-111111?style=for-the-badge&logo=archlinux&logoColor=bf7aff"/></a>
 <a href="https://t.me/Sefeshki"><img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=bf7aff"/></a>
 
 <br/><br/>
